@@ -15,21 +15,12 @@
 
 ## Example Output
 
+
 ## Run Locally:
 
 ### Install dependencies:
 
-Using pip:
-```sh
-pip install -r requirements.txt
-```
-
 ## Usage:
-
-Using pip:
-```sh
-python3 sentiment_analysis.py
-```
 
 ## License
 MIT License
